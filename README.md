@@ -1,2 +1,2 @@
-# Elliptic-Curve-to-Finite-Field-ECtF-
-Elliptic Curve to Finite Field (ECtF) protocol
+# ECtF-IKNP
+Elliptic Curve to Finite Field (ECtF) protocol based on IKNP
